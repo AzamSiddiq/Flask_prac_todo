@@ -1,0 +1,2 @@
+hey this is for testing only.
+# it was used to check the behaviour of static folder only.
